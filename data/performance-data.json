@@ -1,0 +1,5 @@
+
+{
+  "solvers": ["Solver A", "Solver B", "Solver C", "Solver D", "Solver E"],
+  "avg_time_ms": [70, 40, 85, 30, 60]
+}
