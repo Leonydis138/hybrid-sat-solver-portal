@@ -1,5 +1,6 @@
-
 {
   "solvers": ["Solver A", "Solver B", "Solver C", "Solver D", "Solver E"],
-  "avg_time_ms": [70, 40, 85, 30, 60]
+  "avg_time_ms": [70, 40, 85, 30, 60],
+  "sets": ["Set 1","Set 2","Set 3","Set 4","Set 5","Set 6","Set 7","Set 8","Set 9","Set 10","Set 11","Set 12"],
+  "set_perf": [80,65,90,50,75,85,45,70,60,55,80,95]
 }
