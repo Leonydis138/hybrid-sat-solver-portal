@@ -1,14 +1,17 @@
 # Hybrid SAT Solver Benchmark Portal
 
-This is the official GitHub Pages deployment of the Hybrid SAT Solver Benchmark Portal.
+Deployed via GitHub Pages.
 
-## Live Site
+## Live Demo
 
-👉 [View Portal](https://your-username.github.io/hybrid-sat-solver-portal/)
+https://your-username.github.io/hybrid-sat-solver-portal/
 
-## Features
+## Structure
 
-- 12 benchmark set dashboards
-- Visual performance metrics
-- Responsive dark/light mode
-- Charts and grid UI
+- index.html
+- css/styles.css
+- js/*.js
+- data/performance-data.json
+- manifest.json
+- service-worker.js
+- icons/
